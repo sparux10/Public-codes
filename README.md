@@ -8,7 +8,7 @@ i creat my alert cause i don't like the alert in js
 <h3>in js file</h3>
 <div style="color: green;">import {showAlert} from 'showAlert'</div>
 <h3>in html file</h3>
-<div style="color: green;">"<script type="module" src="showAlert.js"></script>"</div>
+<div style="color: green;">"<script src="showAlert.js"></script>"</div>
 
 <h2>how it's work</h2>
 <h4>
