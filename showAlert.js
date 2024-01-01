@@ -17,7 +17,6 @@ function showAlert(title_P, TypeM_P, message_P, color_P){
     button.onclick = () => {
         var removElement = document.getElementById('removed')
         removElement.remove()
-
     }
 
     // parent of button
